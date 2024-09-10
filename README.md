@@ -15,7 +15,7 @@ Devaj(V0.1) is a custom AI chatbot designed for personal or family use within a 
 **Quick Demonstration using LM Studio**
 
 1. **Clone the Repository:**
-   ```git clone https://<your_github_url>/Devaj```
+   ```git clone https://github.com/DeviChaitu379/Devaj-V0.1_Your-Personal-AI-Web-App.git```
 
 2. **Load Your LLM Model:**
    - Select a model compatible with your system's resources.
